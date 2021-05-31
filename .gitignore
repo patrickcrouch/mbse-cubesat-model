@@ -1,0 +1,2 @@
+#ignore .bak file if created by Cameo
+.bak
